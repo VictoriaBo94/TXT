@@ -1,0 +1,7 @@
+Favorite Movie: Interstellar,
+Favorite Series: Game Of Thrones,
+Favorite Food: Meat,
+Favorite Season: Summer,
+Country To Visit: USA
+
+
