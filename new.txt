@@ -1,0 +1,4 @@
+Name: Victoria,
+Age: 27,
+Pets: none,
+FutureSalary: 1000$
